@@ -16,4 +16,4 @@ The goal of this project is to develop an application that allows students to sc
 
 <h2>Program walk-through:</h2>
 
-- [Project Report](https://github.com/almazakhun/StoreGuiSqlDatabase/blob/main/Final%20Deliverable.pptx)
+- [Project Report](https://github.com/almazakhun/CourseSchedulerGuiApp/blob/main/Interactive%20Flow-Chart/CMPSC%20487w%20-%20Final%20Report.pdf)
