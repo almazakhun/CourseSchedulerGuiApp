@@ -17,3 +17,13 @@ The goal of this project is to develop an application that allows students to sc
 <h2>Program walk-through:</h2>
 
 - [Project Report](https://github.com/almazakhun/CourseSchedulerGuiApp/blob/main/Interactive%20Flow-Chart/CMPSC%20487w%20-%20Final%20Report.pdf)
+
+<p align="center">
+Main Window: <br/>
+<img src="https://i.imgur.com/QhLrtIE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Second Window:  <br/>
+<img src="https://i.imgur.com/R0P7bxY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
