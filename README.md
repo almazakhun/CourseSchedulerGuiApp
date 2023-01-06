@@ -1,18 +1,18 @@
 <h1>Course Scheduler GUI Application</h1>
 
 <h2>Description</h2>
-This GUI application imitates a website like Udemy.com where you can purchase courses. The goal of this project is to learn how to use SQL database in real world. The database will have three talbes: users, orders, and courses. Users table contains data about users registered on the site. Orders table contains data about specific orders placed through the site. Courses table contains data about the courses that are available for sale.
+The goal of this project is to develop an application that allows students to schedule their courses and give students a user-friendly visualization of their academic path in any major. The interactive application should allow students to divide courses into four sections and allow the users to customize their version of the app.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Java</b> 
-- <b>SQL</b>
+- <b>Python</b> 
+- <b>PyQt5 Library</b>
 
 <h2>Environments Used </h2>
 
-- <b>NetBeans</b>
+- <b>Pycharm</b>
 
 <h2>Program walk-through:</h2>
 
